@@ -4,5 +4,6 @@ public static void main(String args[]){
  System.out.println("world");
  System.out.println("JAVA");
  System.out.println("semeyemg");
+ System.out.println("computer");
 }
 }
